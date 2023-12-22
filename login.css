@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+.container
+{
+    height: 500px;
+    width: 400px;
+    /* border: solid red 2px; */
+    margin: auto;
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(21, 21, 21);
+}
+
+.image
+{
+    width: 80%;
+    padding: 20px;
+    background-color: rgb(21, 21, 21);
+}
+
+.inputs
+{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+
+    
+}
+
+.sm-btn
+{
+    width:85%;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(90, 218, 90);
+
+}
+
+a
+{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(21, 21, 21);
+}
